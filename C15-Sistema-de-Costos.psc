@@ -25,7 +25,7 @@ Algoritmo Proyecto_Sistema_Costos
 	cantidad<-valorIva*
 	
 	//Realizar costo Final
-	
+	z,m z.mc,v.,mac.mac.mvba.mvbzxcbv 
 	
 	//desglose lo hacemos todos juntos
 	
